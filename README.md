@@ -1,7 +1,7 @@
 # Matplotlib_Challenge
 This is my Matplotlib homework, the Pyber assignment.
 
-I recieved some guidance from my tutor, Brent Hillern. 
+I recieved some guidance from my tutor, Brent Hillen. 
 I also consulted Stack Overflow and the Matplotlib documentation. 
 
 I made a handful of design and content decisions that deviated somewhat from the sample. 
